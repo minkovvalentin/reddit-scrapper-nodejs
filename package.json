@@ -1,0 +1,29 @@
+{
+  "name": "reddit-scraper",
+  "version": "1.0.0",
+  "description": "scrape given subreddit",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minkovvalentin/reddit-scrapper-nodejs.git"
+  },
+  "keywords": [
+    "scrape",
+    "subreddit",
+    "nodejs"
+  ],
+  "author": "valentin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minkovvalentin/reddit-scrapper-nodejs/issues"
+  },
+  "homepage": "https://github.com/minkovvalentin/reddit-scrapper-nodejs#readme"
+}
