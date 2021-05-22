@@ -4,6 +4,7 @@
   "description": "scrape given subreddit",
   "main": "index.js",
   "dependencies": {
+    "@antiadmin/anticaptchaofficial": "^1.0.14",
     "puppeteer": "^9.1.1"
   },
   "devDependencies": {},
