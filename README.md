@@ -1,5 +1,7 @@
 # reddit-scrapper-bot-nodejs
 
+Functionality for reading reddit post data, loging in, passing captcha and making a post.
+
 ## Setup
 
 1. Create **config.js**  in root directory.
